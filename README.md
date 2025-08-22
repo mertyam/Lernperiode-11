@@ -14,8 +14,15 @@ Leider konnte ich nicht alle meine Arbeitspakete erledigen. Ich habe viel Zeit d
 
 ## 22.08.2025
 
+- [x] Motivationsschreiben
+- [x] Hintergrund kreativ auf meiner Seite gestalten aber ohne React
+- [ ] Freifach Aufträge
+
+Ich konnte alles erledigen ausser die Freifach Aufträge da wir noch nicht wissen ob der Kurs stattfinden wird.
+
+## 29.08.2025
+
 - [ ] Motivationsschreiben
-- [ ] Hintergrund kreativ auf meiner Seite gestalten aber ohne React
 - [ ] Freifach Aufträge
 
 
