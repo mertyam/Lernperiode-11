@@ -22,8 +22,17 @@ Ich konnte alles erledigen ausser die Freifach Aufträge da wir noch nicht wisse
 
 ## 29.08.2025
 
+- [x] Motivationsschreiben
+- [x] Freifach Aufträge
+
+## 05.09.2025
+
+- [x] Motivationsschreiben
+- [x] Freifach Aufträge
+
+## 13.09.2025
+
 - [ ] Motivationsschreiben
 - [ ] Freifach Aufträge
-
 
 ## Reflexion
