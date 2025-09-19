@@ -41,6 +41,12 @@ Ich konnte alles erledigen ausser die Freifach Aufträge da wir noch nicht wisse
 - [x] An Zinseszins Rechner arbeiten (Vorlagenfunktion entfernen)
 - [x] An Zinseszins Rechner arbeiten (Ergebnisübersicht Bug fixen)
 
-Ich konnte alle Arbeitspakete abschliessen. Als erstes habe ich die Download Funktion implementiert mithilfe von
+Ich konnte alle Arbeitspakete abschliessen. Als erstes habe ich die Download Funktion implementiert mithilfe von ChatGPT. Letztes mal als ich an dem Projekt gearbeitet habe habe ich CursorAI genutzt um Funktionen zu erstellen (Vorlagen, Ergebnisübersicht) die ich zusätzlich zur Grundfunktionen implementieren könnte. Die Ergebnisübersicht habe ich gefixt als es ein Bug hatte und die Vorlagenfunktion war überflüssig und diese habe ich entfernt.
+
+## 26.09.2025
+
+- [x] An Zinseszins Rechner arbeiten (Seite responsive machen)
+- [x] An Zinseszins Rechner arbeiten (Seiten Designe hinzufügen, Modern und ansprechend, CSS vielleicht React probieren)
+- [x] An Zinseszins Rechner arbeiten (Falls Zeit am Freifach arbeiten)
 
 ## Reflexion
