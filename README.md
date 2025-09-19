@@ -37,8 +37,10 @@ Ich konnte alles erledigen ausser die Freifach Aufträge da wir noch nicht wisse
 
 ## 19.09.2025
 
-- [ ] An Zinseszins Rechner arbeiten (PDF, CSV, Excel Export der Tabelle hinzufügen)
-- [ ] An Zinseszins Rechner arbeiten (Vorlagenfunktion entfernen)
-- [ ] An Zinseszins Rechner arbeiten (Ergebnisübersicht Bug fixen)
+- [x] An Zinseszins Rechner arbeiten (PDF, CSV, Excel Export der Tabelle hinzufügen)
+- [x] An Zinseszins Rechner arbeiten (Vorlagenfunktion entfernen)
+- [x] An Zinseszins Rechner arbeiten (Ergebnisübersicht Bug fixen)
+
+Ich konnte alle Arbeitspakete abschliessen. Als erstes habe ich die Download Funktion implementiert mithilfe von
 
 ## Reflexion
