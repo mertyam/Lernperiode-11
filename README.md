@@ -32,7 +32,13 @@ Ich konnte alles erledigen ausser die Freifach Aufträge da wir noch nicht wisse
 
 ## 13.09.2025
 
-- [ ] Motivationsschreiben
-- [ ] Freifach Aufträge
+- [x] Motivationsschreiben
+- [x] Freifach Aufträge
+
+## 19.09.2025
+
+- [ ] An Zinseszins Rechner arbeiten (PDF, CSV, Excel Export der Tabelle hinzufügen)
+- [ ] An Zinseszins Rechner arbeiten (Vorlagenfunktion entfernen)
+- [ ] An Zinseszins Rechner arbeiten (Ergebnisübersicht Bug fixen)
 
 ## Reflexion
