@@ -45,8 +45,8 @@ Ich konnte alle Arbeitspakete abschliessen. Als erstes habe ich die Download Fun
 
 ## 26.09.2025
 
-- [x] An Zinseszins Rechner arbeiten (Seite responsive machen)
-- [x] An Zinseszins Rechner arbeiten (Seiten Designe hinzufügen, Modern und ansprechend, CSS vielleicht React probieren)
-- [x] An Zinseszins Rechner arbeiten (Falls Zeit am Freifach arbeiten)
+- [ ] An Zinseszins Rechner arbeiten (Seite responsive machen)
+- [ ] An Zinseszins Rechner arbeiten (Seiten Designe hinzufügen, Modern und ansprechend, CSS vielleicht React probieren)
+- [ ] An Zinseszins Rechner arbeiten (Falls Zeit am Freifach arbeiten)
 
 ## Reflexion
