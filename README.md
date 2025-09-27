@@ -45,8 +45,11 @@ Ich konnte alle Arbeitspakete abschliessen. Als erstes habe ich die Download Fun
 
 ## 26.09.2025
 
-- [ ] An Zinseszins Rechner arbeiten (Seite responsive machen)
-- [ ] An Zinseszins Rechner arbeiten (Seiten Designe hinzufügen, Modern und ansprechend, CSS vielleicht React probieren)
-- [ ] An Zinseszins Rechner arbeiten (Falls Zeit am Freifach arbeiten)
+- [x] An Zinseszins Rechner arbeiten (Seite responsive machen)
+- [x] An Zinseszins Rechner arbeiten (Seiten Designe hinzufügen, Modern und ansprechend, CSS vielleicht React probieren)
+- [x] Falls Zeit am Freifach arbeiten
+
+Ich konnte die Seite heute responsiv machen mithilfe von CursorAI welches mir sehr dabei gehoolfen hatte. Ebenfalls hat CursorAI mir bei dem Seiten Designe geholfen indem ich die Grundstruktur selber gemacht habe und Cursor gesagt habe er soll mir sagen was ich verbessern könnte und dann einzelne Sachen davon implementiert.
 
 ## Reflexion
+Ich konnte diese Lernperiode gut nutzen, um Bewerbungen zu verschicken und allgemein an meinem Portfolio zu arbeiten. Besonders der Zinseszinsrechner war ein wertvolles Projekt, das mir half, meine Kenntnisse in JavaScript, HTML und CSS weiter zu vertiefen. Durch die praktische Umsetzung konnte ich mein Verständnis für Logik, Strukturierung und sauberen Code verbessern. Zusätzlich habe ich viel Zeit in die Freifach-Aufträge investiert die ebenfalls stark auf JavaScript basierten. Diese Aufgaben haben es mir ermöglicht mein Wissen noch tiefer zu festigen und neue Lösungsansätze auszuprobieren. Insgesamt war es eine sehr produktive und lehrreiche Phase.
